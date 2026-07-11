@@ -31,4 +31,12 @@ In order to keep the app engine component isolated for processing click events, 
 We leverage the Resend platform for all activities involving sending emails. This can be used by any back end component by submitting a SendEmail request to pub/sub.
 
 ## Environment Setup
+
+### Angular App
+Clone the UI repo listed above. Run npm install and npm start. The web app will be running on localhost:5000.
+
+### Redirect Server
+Clone the repo, run npm install and npm start. Database and Pub/Sub connections TBD, but feel free to bring your own :)
+
+### Microservices
 TBD
