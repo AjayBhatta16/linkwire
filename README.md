@@ -17,6 +17,7 @@ Our codebase consists of the following repos:
 * [linkwire-golang-shared](https://github.com/AjayBhatta16/linkwire-golang-shared) - Shared types and functions for our various Golang back-end components. When changes are pushed or merged into the main branch, a new package version will be created and become retrievable by running `go get https://github.com/AjayBhatta16/linkwire-golang-shared@latest`
 * [linkwire-microservices](https://github.com/AjayBhatta16/linkwire-microservices) - The code for LinkWire's various microservices, which are currently written in Golang and Node.JS, and run on GCP Cloud Run functions. This repo also includes generator scripts, which can be used to quickly create a copy of our boiler plate code for a new microservice.
 * [linkwire-redirect-server](https://github.com/AjayBhatta16/linkwire-redirect-server) - The code for LinkWire's redirect server, which is responsible for everything that happens when a LinkWire link is clicked.
+* [linkwire-automation-tests](https://github.com/AjayBhatta16/linkwire-automation-tests) - The code for LinkWire's automation tests.
 
 ## Tech Stack & System Architecture
 
