@@ -4,7 +4,7 @@
 
 Linkwire is an open-source URL shortener and web traffic analysis platform. Our goal is to create a general purpose URL shortener that anyone can use, while also maintaining key features that empower cybersecurity researchers to identify threat actors.
 
-DISCLAIMER: LinkWire's premium features are intended for educational/scambaiting purposes only.
+DISCLAIMER: LinkWire's premium features are intended for educational/threat-assessment purposes only.
 
 ## Bug Reports & Feature Requests
 
