@@ -6,6 +6,17 @@ Linkwire is an open-source URL shortener and web traffic analysis platform. Our 
 
 DISCLAIMER: LinkWire's premium features are intended for educational/scambaiting purposes only.
 
+## Bug Reports & Feature Requests
+
+If you are experiencing difficulties using the LinkWire platform (i.e. the website isn't doing what its supposed to do), please create a new issue on this board: [LinkWire - Bugs & Incidents](https://github.com/users/AjayBhatta16/projects/3)
+
+In order for us to resolve the issue as quickly as possible, be sure to include the following information in your ticket:
+* Summary of what's happening
+* Detailed step-by-step instructions to reproduce the issue
+* A way for us to contact you if we need more information
+
+If you have an idea for a LinkWire enhancement (i.e. you want it to do something it isn't currently expected to do), please create a new issue on this board: [Linkwire - Feature Requests](https://github.com/users/AjayBhatta16/projects/4)
+
 ## Project Structure
 
 We currently maintain the code for LinkWire using a polyrepo approach. This allows us to open up certain parts of our codebase to broad collaboration, while limiting who updates more sensitive & decision driven code (such as our Terraform modules).
